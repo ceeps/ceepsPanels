@@ -1,0 +1,8 @@
+## Interface: 40000
+## Title: ceepsPanels
+## Author: Ceeps
+## Version: 0.1a
+## Notes: Panels for CeepsUF
+## DefaultState: Enabled
+## LoadOnDemand: 0
+ceepsPanels.lua
